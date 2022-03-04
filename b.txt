@@ -1,3 +1,5 @@
 b file.
 
-modify b.txt file.
+modify b.txt file
+
+second modify b.txt file.
