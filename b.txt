@@ -6,4 +6,3 @@ second modify b.txt file.
 
 third modify
 
-forth modify
