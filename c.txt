@@ -16,3 +16,9 @@ branch test 2.
 branch test 3.
 
 branch test 4.
+
+commit test.
+
+commit test 2.
+
+commit test 3.
